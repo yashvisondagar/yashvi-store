@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "firstname": "Kristo",
+      "lastname": "Egglestone",
+      "email": "kegglestone3@alexa.com",
+      "gender": "Male"
+    },
+    {
+      "id": "6",
+      "firstname": "Tatiania",
+      "lastname": "Barus",
+      "email": "tbarus5@flickr.com",
+      "gender": "Female"
+    },
+    {
+      "id": "8",
+      "firstname": "Deeanne",
+      "lastname": "O'Sharry",
+      "email": "dosharry7@desdev.cn",
+      "gender": "Female"
+    }
+  ]
+}
